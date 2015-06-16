@@ -1,2 +1,2 @@
 # universe
-excercise 
+learn to create jekyll website
